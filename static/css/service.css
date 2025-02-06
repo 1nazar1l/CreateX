@@ -1,0 +1,56 @@
+header {
+    background-image: url('../img/service/bg-image.png'); 
+    background-position: right; 
+    background-repeat: no-repeat;
+    background-color: rgba(244, 245, 246, 1);
+    padding: 0 !important;
+}
+
+.path .grey{
+    color: rgba(154, 156, 165, 1);
+}
+
+header .block {
+    padding-top: 80px;
+    padding-bottom: 180px;
+}
+
+.path {
+    margin-bottom: 40px;
+}
+
+h4 {
+    width: 600px;
+    color: rgba(120, 122, 128, 1);
+}
+
+.block .content_block {
+    justify-content: space-between;
+    margin-bottom: 120px;
+}
+
+.block1 .info {
+    width: 575px;
+    margin: auto 0;
+}
+
+.h7 {
+    margin-bottom: 24px;
+}
+
+h6 {
+    margin-bottom: 48px;
+}
+
+.block1 .button {
+    border: 1px solid #FF5A30;
+    padding: 0 32px;
+}
+
+.reverse {
+    flex-direction: row-reverse;
+}
+
+.block1.block {
+    padding-bottom: 0;
+}
